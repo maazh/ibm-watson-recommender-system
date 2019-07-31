@@ -2,14 +2,14 @@
 
 # Recommendations with IBM
 
-#### This project aims to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they will possibly like. 
+#### This project aims to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they may possibly like. 
 
 <center>
 <img src="./data/ibm-watson.png" width="90%">
 </center>
 
 
-Your project is divided into the following tasks
+This project is divided into the following tasks
 
 I. Exploratory Data Analysis
 
